@@ -62,6 +62,7 @@ My name is Supakun Thata , I'm **`Frontend Developer`** in the world 🌍. I enj
 | 🍔 **Restaurant**             |  A fully functional food app with cart & auth system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
 | 📊 **Dashboard**          | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
 | 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Tailwind**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
+| 📚 **Bookstore**          | Crafted an immersive bookstore website, using **Typescript** & **NextJS**.  | [Repository](https://github.com/supakunz/Bookstore)  |
 | 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **React** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
 | 📕 **Pokedex App**          | An application uses data from PokeAPI for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Pokedex_App)  |
 | 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
