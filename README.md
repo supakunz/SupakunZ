@@ -66,13 +66,13 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 | 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **React** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
 | 📕 **Pokedex App**          | An application uses data from PokeAPI for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Pokedex_App)  |
 | 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
-| 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **React** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio)  |
 
 ## 📚 Data Engineer Projects
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
+| 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
 | 🛒 **Global Book Sales**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
 
 ### 📊 Stats
