@@ -73,7 +73,7 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛒 **Global Book Sales**       | Deploying ETL pipeline on cloud, analyzing on BigQuery, dashboarding on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
+| 🛒 **Global Book Sales**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
 
 ### 📊 Stats
 
