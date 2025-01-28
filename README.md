@@ -54,7 +54,7 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 <a href="https://www.github.com/SupakunZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-## 📚 My Projects
+## 📚 Web Development Projects
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
@@ -69,6 +69,11 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 | 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **React** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio)  |
 
+## 📚 Data Engineer Projects
+
+| Project Name                    | Description                                                                                  | Link                                   |
+|---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
+| 🛒 **Global Book Sales**       | Deploying ETL pipeline on cloud, analyzing on BigQuery, dashboarding on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
 
 ### 📊 Stats
 
