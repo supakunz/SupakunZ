@@ -45,6 +45,13 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 ![My Skills](https://skillicons.dev/icons?i=vercel)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=supabase)&nbsp;&nbsp; 
 
+![Static Badge](https://img.shields.io/badge/Power-BI-brightgreen?style=flat&logo=googleanalytics&logoColor=white&color=F0C811)
+![Static Badge](https://img.shields.io/badge/Pandas-brightgreen?style=flat&logo=pandas&logoColor=white&labelColor=4E4E4E&color=%23150458)
+![Static Badge](https://img.shields.io/badge/Apache-Airflow-brightgreen?style=flat&logo=apacheairflow&logoColor=white&labelColor=4E4E4E&color=%23017CEE)
+![Static Badge](https://img.shields.io/badge/Google-BigQuery-brightgreen?style=flat&logo=googlebigquery&logoColor=white&labelColor=4E4E4E&color=%23669DF6)
+![Static Badge](https://img.shields.io/badge/Looker-Studio-brightgreen?style=flat&logo=googledatastudio&logoColor=white&labelColor=4E4E4E&color=%23FF7143)
+![Static Badge](https://img.shields.io/badge/Cloud-Composer-brightgreen?style=flat&logo=googlecloudcomposer&logoColor=white&labelColor=4E4E4E&color=%238E75B2)
+
 
 ## 🌍 Socials
 
