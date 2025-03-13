@@ -85,7 +85,7 @@ My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I en
 | 🛒 **Global Book Sales**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
 | 💼 **Employee Datafision**       | ETL on GCP with Data Fusion, analysis on BigQuery, and dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP)  |
 | 🚗 **Uber Pipeline GCP**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on PowerBI.  | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP)  |
-| 🤖 **Reddit Pipeline AWS**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on PowerBI.  | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git)  |
+| 🤖 **Reddit Pipeline AWS**       | Deploying ETL pipeline on AWS, and load into a Redshift data warehouse.  | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git)  |
 
 ### 📊 Stats
 
