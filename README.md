@@ -3,7 +3,7 @@
 
 My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
 
-* 🖥️  See my portfolio at [@Fullstack](https://portfolio-supakun.netlify.app) or [@DataEngineer](https://portfolio-supakun-de.netlify.app)
+* 🖥️  See my portfolio : [@FullStack](https://portfolio-supakun.netlify.app) | [@DataEngineer](https://portfolio-supakun-de.netlify.app)
 * ✉️  You can contact me at [supakunt.thata@gmail.com](mailto:supakunt.thata@gmail.com)
 
 ## 🧰 Technical Proficiencies
