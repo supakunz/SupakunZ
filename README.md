@@ -1,10 +1,10 @@
 ![github-header-image](https://github.com/SupakunZ/SupakunZ/assets/168329218/15375aaa-f646-4129-8502-d5a4fc8b3b8a)
 # ⭐Hi there
 
-My name is Supakun Thata , I'm **`Fullstack Developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
+My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
 
-* 🖥️  See my portfolio : [@FullStack](https://portfolio-supakun.netlify.app) | [@DataEngineer](https://portfolio-supakun-de.netlify.app)
-* ✉️  You can contact me at [supakunt.thata@gmail.com](mailto:supakunt.thata@gmail.com)
+* 🖥️  See my portfolios : [@FullStack](https://portfolio-supakun.netlify.app) | [@DataEngineer](https://portfolio-supakun-de.netlify.app)
+* ✉️  You can contact me : [supakunt.thata@gmail.com](mailto:supakunt.thata@gmail.com)
 
 ## 🧰 Technical Proficiencies
 
