@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/SupakunZ/SupakunZ/assets/168329218/15375aaa-f646-4129-8502-d5a4fc8b3b8a)
+![github-header-image](https://github.com/user-attachments/assets/bc42bb1b-3359-44fb-9323-8c3abcaf9974)
 # ⭐Hi there
 
 My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enjoy programming most when I can solve problems and I love learning new things so I can improve my knowledge and create great work.
