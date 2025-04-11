@@ -45,6 +45,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 ![My Skills](https://skillicons.dev/icons?i=vercel)&nbsp;&nbsp; 
 ![My Skills](https://skillicons.dev/icons?i=supabase)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=gcp)&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=aws)&nbsp;&nbsp;
 ![My Skills](https://skillicons.dev/icons?i=docker)&nbsp;&nbsp; 
 
 ![Static Badge](https://img.shields.io/badge/Power-BI-brightgreen?style=flat&logo=googleanalytics&logoColor=white&color=F0C811)
