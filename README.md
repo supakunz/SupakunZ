@@ -82,7 +82,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛰 **GNSS RTK**          | Analyzing satellite data for Autonomous Vehicle using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
+| 🛰 **GNSS RTK**          | Process and visualize GNSS-RTK data for AGV route tracking using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
 | 🛒 **Global Book Sales**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline-GCP.git)  |
 | 💼 **Employee Datafision**       | ETL on GCP with Data Fusion, analysis on BigQuery, and dashboard on Looker Studio.  | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP)  |
 | 🚗 **Uber Pipeline GCP**       | Deploying ETL pipeline on GCP, analyzing on BigQuery, dashboard on PowerBI.  | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP)  |
