@@ -68,26 +68,27 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛒 **E-commerce**       | A fully functional shopping app with cart & payment gateway using **ReactJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce)  |
-| 🍔 **Restaurant**             |  A fully functional food app with cart & auth system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website)  |
-| 📊 **Dashboard**          | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
-| 🤖 **AI Chatbot**          | An intelligent conversational AI Chat system using **NextJS** & **Tailwind**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot)  |
-| 📚 **Bookstore**          | Crafted an immersive bookstore website, using **Typescript** & **NextJS**.  | [Repository](https://github.com/supakunz/Bookstore)  |
-| 🚗 **Tesla Clone**          | Crafted an immersive Tesla clone, UI similar to original using **ReactJS** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone)  |
-| 📕 **Pokedex App**          | An application uses data from PokeAPI for display using **Typescript** & **ReactJS**.  | [Repository](https://github.com/SupakunZ/Pokedex_App)  |
-| 💸 **Crypto Tracker**          | An application uses data from CoinGecko API for display using **Typescript** & **NextJS**.  | [Repository](https://github.com/SupakunZ/Crypto_tracker)  |
-| 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **ReactJS** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio)  |
+| 🛒 **E-commerce**  | A fully functional shopping app with cart & payment gateway using **ReactJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/E-commerce) |
+| 🍔 **Restaurant**  |  A fully functional food app with cart & auth system using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Restaurant-Website) |
+| 📊 **Dashboard**   | Display information and manage products and users using **NextJS** & **Node.js**.  | [Repository](https://github.com/SupakunZ/Admin_Dashboard) |
+| 🤖 **AI Chatbot**  | An intelligent conversational AI Chat system using **NextJS** & **Tailwind**.  | [Repository](https://github.com/SupakunZ/Gunglz_Chatbot) |
+| 📚 **Bookstore**   | Crafted an immersive bookstore website, using **Typescript** & **NextJS**.  | [Repository](https://github.com/supakunz/Bookstore) |
+| 🚗 **Tesla Clone** | Crafted an immersive Tesla clone, UI similar to original using **ReactJS** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone) |
+| 📕 **Pokedex App** | An application uses data from PokeAPI for display using **Typescript** & **ReactJS**. | [Repository](https://github.com/SupakunZ/Pokedex_App) |
+| 💸 **Crypto Tracker** | An application uses data from CoinGecko API for display using **Typescript** & **NextJS**.| [Repository](https://github.com/SupakunZ/Crypto_tracker) |
+| 🖥️ **Portfolio Website** | My personal portfolio showcasing skills & projects using **ReactJS** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio) |
 
 ## 📚 Data Engineer Projects
 
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| 🛰 **GNSS RTK**          | Process and visualize GNSS-RTK data for AGV route tracking using **Python** & **Pandas**.  | [Repository](https://github.com/SupakunZ/GNSS_RTK)  |
-| 🛒 **Book Sales**       | Build a batch processing pipeline with **Airflow** & **Spark**, analyze on **BigQuery**, and visualize on **Looker Studio**. | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline.git)  |
-| 🛒 **Streaming**       | Build a **real-time data pipeline** using **Kafka**, **Spark Structured Streaming**, and **Cassandra**. | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline.git)  |
-| 💼 **Employee Data**       | Develop an ETL pipeline with **GCP Data Fusion**, analyze on **BigQuery**, and visualize on **Looker Studio**. | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP)  |
-| 🚗 **Uber Pipeline**       | Deploy an ETL pipeline on **GCP**, analyze on **BigQuery**, and visualize on **Power BI**. | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP)  |
-| 🤖 **Reddit Pipeline**       | Deploy an ETL pipeline on **AWS**, and load data into **Amazon Redshift**.  | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git)  |
+| 📡 **GNSS RTK**   | Process and visualize GNSS-RTK data for AGV route tracking using **Python** & **Pandas**. | [Repository](https://github.com/SupakunZ/GNSS_RTK) |
+| 🛒 **Book Sales** |  Batch pipeline using **Airflow** & **Spark**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline.git) |
+| ⚡ **Streaming Pipeline** | Real-time pipeline using **Kafka**, **Spark Structured Streaming**, and **Cassandra** | [Repository](https://github.com/supakunz/Streaming-Data-Pipeline) |
+| 💼 **Employee Data** | ETL pipeline with **GCP Data Fusion**, analyze on **BigQuery**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP) |
+| 🚗 **Uber Pipeline**   | Deploy ETL pipeline on **GCP**, analyze on **BigQuery**, visualize on **Power BI** | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP) |
+| 🤖 **Reddit Pipeline** | Deploy ETL pipeline on **AWS**, load data into **Amazon Redshift** | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git) |
+
 
 ### 📊 Stats
 
