@@ -84,7 +84,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
 | 📡 **GNSS RTK**   | Process and visualize GNSS-RTK data for AGV route tracking using **Python** & **Pandas**. | [Repository](https://github.com/SupakunZ/GNSS_RTK) |
 | 🛒 **Book Sales** |  Batch pipeline using **Airflow** & **Spark**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline.git) |
-| ⚡ **Streaming Pipeline** | Real-time pipeline using **Kafka**, **Spark Structured Streaming**, and **Cassandra** | [Repository](https://github.com/supakunz/Streaming-Data-Pipeline) |
+| ⚡ **Streaming ETL** | Real-time pipeline using **Kafka**, **Spark Structured Streaming**, and **Cassandra** | [Repository](https://github.com/supakunz/Streaming-Data-Pipeline) |
 | 💼 **Employee Data** | ETL pipeline with **GCP Data Fusion**, analyze on **BigQuery**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP) |
 | 🚗 **Uber Pipeline**   | Deploy ETL pipeline on **GCP**, analyze on **BigQuery**, visualize on **Power BI** | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP) |
 | 🤖 **Reddit Pipeline** | Deploy ETL pipeline on **AWS**, load data into **Amazon Redshift** | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git) |
