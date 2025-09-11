@@ -76,7 +76,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 | 🚗 **Tesla Clone** | Crafted an immersive Tesla clone, UI similar to original using **ReactJS** & **Bootstrap**.  | [Repository](https://github.com/SupakunZ/Tesla_Clone) |
 | 📕 **Pokedex App** | An application uses data from PokeAPI for display using **Typescript** & **ReactJS**. | [Repository](https://github.com/SupakunZ/Pokedex_App) |
 | 💸 **Crypto Tracker** | An application uses data from CoinGecko API for display using **Typescript** & **NextJS**.| [Repository](https://github.com/SupakunZ/Crypto_tracker) |
-| 🖥️ **Portfolio Website** | My personal portfolio showcasing skills & projects using **ReactJS** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio) |
+| 🖥️ **Portfolio** | My personal portfolio showcasing skills & projects using **ReactJS** & **Node.js**.  | [Repository](https://github.com/supakunz/Portfolio) |
 
 ## 📚 Data Engineer Projects
 
