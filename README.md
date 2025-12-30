@@ -90,9 +90,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 | 🤖 **Reddit Pipeline** | Deploy ETL pipeline on **AWS**, load data into **Amazon Redshift** | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git) |
 
 
-### 📊 Stats
-
-<h2 align="left">📊 Stats</h2>
+## 📊 Stats
 
 <table width="100%">
   <tr>
