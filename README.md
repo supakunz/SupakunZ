@@ -88,7 +88,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 | 💼 **Employee Data** | ETL pipeline with **GCP Data Fusion**, analyze on **BigQuery**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP) |
 | 🚗 **Uber Pipeline**   | Deploy ETL pipeline on **GCP**, analyze on **BigQuery**, visualize on **Power BI** | [Repository](https://github.com/supakunz/Uber-Pipeline-GCP) |
 | 🤖 **Reddit Pipeline** | Deploy ETL pipeline on **AWS**, load data into **Amazon Redshift** | [Repository](https://github.com/supakunz/ETL-Reddit-Pipeline-AWS.git) |
-| 🤖 **COVID-19 ETL Pipeline** | Airflow-based pipeline with **Data Quality** (Great Expectations) and **CI/CD** | [Repository](https://github.com/supakunz/Deploy-Pipeline-CICD) |
+| 🦠 **COVID-19 ETL Pipeline** | Airflow-based pipeline with **Data Quality** ( Great Expectations ) and **CI/CD** | [Repository](https://github.com/supakunz/Deploy-Pipeline-CICD) |
 
 
 ## 📊 Stats
