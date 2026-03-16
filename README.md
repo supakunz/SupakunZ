@@ -83,7 +83,7 @@ My name is Supakun Thata , I'm **`Software Developer`** in the world 🌍. I enj
 | Project Name                    | Description                                                                                  | Link                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------|
 | 📡 **GNSS RTK**   | Process and visualize GNSS-RTK data for AGV route tracking using **Python** & **Pandas**. | [Repository](https://github.com/SupakunZ/GNSS_RTK) |
-| 🦠 **ELT-DBT** | Airflow + dbt ELT with bronze/silver/gold modeling and quality checks on BigQuery. | [Repository](https://github.com/supakunz/Modern-Data-Platform) |
+| ❄️ **ELT-DBT** | Airflow + dbt ELT with bronze/silver/gold modeling and quality checks on BigQuery. | [Repository](https://github.com/supakunz/Modern-Data-Platform) |
 | 🛒 **Book Sales** |  Batch pipeline using **Airflow** & **Spark**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/Book-Revenue-Pipeline.git) |
 | ⚡ **Streaming ETL** | Real-time pipeline using **Kafka**, **Spark Structured Streaming**, and **Cassandra** | [Repository](https://github.com/supakunz/Streaming-Data-Pipeline) |
 | 💼 **Employee Data** | ETL pipeline with **GCP Data Fusion**, analyze on **BigQuery**, visualize on **Looker Studio** | [Repository](https://github.com/supakunz/ETL-Pipeline-Datafusion-GCP) |
